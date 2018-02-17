@@ -13,7 +13,9 @@ For if you see something wow-worthy!
 ++suggest
 suggest commands, reports on bugs, etc!
 ++impression [danganronpa command]
-Info on your favorite Danganronpa v1 Characters! [Incomplete! Currently added: Aoi, Celeste, Byakuya, Makoto, Chihiro, Monokuma]
+Info on your favorite Danganronpa v1 Characters! 
+[Incomplete! Currently added: Aoi, Celeste, Byakuya, Makoto, 
+Chihiro, Monokuma]
 ++counter [danganronpa command]
 Allow Chihiro to cut through those words!
 ```
